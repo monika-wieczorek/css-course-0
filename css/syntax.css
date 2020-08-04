@@ -4,7 +4,7 @@
 *date: flkdsjfds
 *
 ****************************/
-h2
+/*h2
 {
     font-size: 24px;
 }
@@ -23,5 +23,21 @@ span
 
 span
 {
+    display: block;
     color: red;
+}*/
+
+body
+{
+    color: red;
+}
+
+div
+{
+    color: blue;
+}
+
+p
+{
+    color: green;
 }
