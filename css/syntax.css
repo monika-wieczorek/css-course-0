@@ -1,10 +1,25 @@
-#header h1
+/****************************
+*
+*author: dmnfdslkjf
+*date: flkdsjfds
+*
+****************************/
+
+
+#header p
 {
-    font-size: 32px;
+    font-size: 24px;
 }
 
+/*style all p tags*/
 p
 {
     font-size: 18px;
     color: blue;
+}
+
+/*style all header tags*/
+h1
+{
+    font-size: 44px;
 }
