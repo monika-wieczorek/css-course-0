@@ -4,38 +4,25 @@
 *date: flkdsjfds
 *
 ****************************/
-
-#header p
+h2
 {
     font-size: 24px;
 }
 
-/*style all p tags*/
-p
+#content-header
 {
     font-size: 18px;
-    color: blue;
-}
-
-/*style all header tags*/
-h1
-{
-    font-size: 44px;
-}
-
-a
-{
     color: red;
-    text-decoration: underline;
 }
 
 span
 {
-    text-transform: uppercase;
+    display: block;
+    color: blue;
 }
 
-div
+.deck
 {
-    width: 100%;
-    background-color: grey;
+    color: red;
+    
 }
