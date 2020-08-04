@@ -5,7 +5,7 @@
     color: goldenrod;
 }*/
 
-article p:first-of-type
+/*article p:first-of-type
 {
     font-weight: bold;
 }
@@ -13,4 +13,29 @@ article p:first-of-type
 article p:last-of-type
 {
     color: red;
+}*/
+
+article
+{
+    text-decoration: none;
+
+}
+
+h1
+{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+h2
+{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p
+{
+    font-size: 16px;
+    font-family: "Yu Gothic";
+    font-weight: 100;
 }
