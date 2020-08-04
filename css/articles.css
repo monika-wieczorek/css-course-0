@@ -40,8 +40,11 @@ h2
 p
 {
     font-size: 16px;
-    font-family: "Yu Gothic";
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 100;
+    word-spacing: 1.5px;
+    line-height: 2em;
+    margin-bottom: 32px;
 }
 
 #Header
