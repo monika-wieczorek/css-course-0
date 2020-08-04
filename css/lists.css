@@ -1,4 +1,4 @@
-li:nth-child(1), li:nth-child(7)
+/*li:nth-child(1), li:nth-child(7)
 {
     color: red;
     font-weight: bold;
@@ -12,4 +12,9 @@ li:nth-child(even)
 li:nth-child(odd)
 {
     background-color: lightblue;
+}*/
+
+*
+{
+    color: lightskyblue;
 }
