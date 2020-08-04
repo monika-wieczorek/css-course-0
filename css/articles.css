@@ -51,3 +51,11 @@ p
 {
     background: lightcyan;
 }
+
+.box
+{
+    margin: 30px auto;
+    padding: 30px 20%;
+    border: 1px solid #000000;
+    width: 300px;
+}
