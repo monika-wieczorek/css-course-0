@@ -1,6 +1,16 @@
-/* adding style to adjacent selector*/
+/* adding style to adjacent selector
 
 #all-articles h2 + p
 {
     color: goldenrod;
+}*/
+
+article p:first-child
+{
+    font-weight: bold;
+}
+
+article p:last-child
+{
+    color: red;
 }
