@@ -27,17 +27,10 @@ span
     color: red;
 }*/
 
-body
+p, span, a, li
 {
-    color: red;
-}
-
-div
-{
-    color: blue;
-}
-
-p
-{
-    color: green;
+    color: red !important;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial;
 }
