@@ -1,3 +1,5 @@
+/* adding style to adjacent selector*/
+
 #all-articles h2 + p
 {
     color: goldenrod;

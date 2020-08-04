@@ -34,3 +34,19 @@ direct children of the element*/
 {
     color: red;
 }
+
+span[class]
+{
+    color: black;
+    font-weight: bold;
+}
+
+div[id]
+{
+    background-color: darkcyan;
+}
+
+a[title="Google"]
+{
+    color: darkorchid;
+}
