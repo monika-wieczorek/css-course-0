@@ -27,10 +27,10 @@ span
     color: red;
 }*/
 
-p, span, a, li
+/*using child combinator - only to inherite style by
+direct children of the element*/
+
+#main-content > p
 {
-    color: red !important;
-    font-size: 18px;
-    font-weight: bold;
-    font-family: Arial;
+    color: red;
 }
