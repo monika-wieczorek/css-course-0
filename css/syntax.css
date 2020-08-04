@@ -46,7 +46,23 @@ div[id]
     background-color: darkcyan;
 }
 
-a[title="Google"]
+/*a[title="Google"]
 {
     color: darkorchid;
+}*/
+
+a:hover
+{
+    color: red;
+    cursor: pointer;
+}
+
+a:active
+{
+    color: orange;
+}
+
+a:visited
+{
+    color: hotpink;
 }
