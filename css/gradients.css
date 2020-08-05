@@ -15,6 +15,7 @@ is relatively new and not always supported*/
     text-align: center;
     border-radius: 4px;
     background: #aadddd;
+    box-shadow: 10px 10px 4px 2px rgba(40,40,40,0.6);
     /* linear gradient starts at the top with black from very top (0%)
     ends with another color at the very bottom*/
     background: -moz-linear-gradient(top, #000000, 0%, #77aaaa, 100%); /*to get it supported mmozzila*/
