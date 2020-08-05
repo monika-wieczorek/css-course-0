@@ -106,3 +106,27 @@ p
     border: 1px solid black;
     display: inline-block;
 }
+
+#main-content div
+{
+    background-color: lightgray;
+    margin: 0 0 20px 0;
+}
+
+.static-width
+{
+    width: 300px;
+    height: 200px;
+}
+
+.percentage-width
+{
+    width: 70%; /*whatever width the parent element is
+                I want this div to be 70% of that parent*/
+    height: 50px;
+}
+.inline-block
+{
+    width: 40%;
+    display: inline-block;
+}
