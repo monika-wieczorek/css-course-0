@@ -91,3 +91,18 @@ p
 {
     border: 4px solid blue;
 }
+
+.block
+{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.inline
+{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    display: inline-block;
+}
