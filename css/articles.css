@@ -31,6 +31,7 @@ article
     background-repeat: round, no-repeat;
     /*background-position: center;*/
     background-size: 200px, 100%;
+    opacity: 0.5;
 }
 
 h1
